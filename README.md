@@ -1,4 +1,5 @@
 ## Olá eu sou o André!
+Estou cursando engenharia da computação no CESUPA
 
 
 
